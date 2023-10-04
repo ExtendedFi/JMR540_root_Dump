@@ -1,0 +1,6 @@
+DRIVER=spmi_pmic_arb
+OF_NAME=qcom,spmi
+OF_FULLNAME=/soc/qcom,spmi@200f000
+OF_COMPATIBLE_0=qcom,spmi-pmic-arb
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,spmiT<NULL>Cqcom,spmi-pmic-arb

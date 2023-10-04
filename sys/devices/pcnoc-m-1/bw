@@ -1,0 +1,5 @@
+[0]:blsp1_uart3:Act_IB 0 Act_AB 0 Slp_IB 0 Slp_AB 0
+[1]:usb2:Act_IB 0 Act_AB 80000000 Slp_IB 0 Slp_AB 80000000
+[2]:78b8000.i2c:Act_IB 0 Act_AB 0 Slp_IB 0 Slp_AB 0
+Max_Act_IB 0 Sum_Act_AB 80000000 Act_Util_fact 100 Act_Vrail_comp 100
+Max_Slp_IB 0 Sum_Slp_AB 80000000 Slp_Util_fact 100 Slp_Vrail_comp 100

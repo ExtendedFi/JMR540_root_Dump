@@ -1,0 +1,5 @@
+DRIVER=qcom,qpnp-revid
+OF_NAME=qcom,revid
+OF_FULLNAME=/soc/qcom,spmi@200f000/qcom,pm8019@0/qcom,revid@100
+OF_COMPATIBLE_0=qcom,qpnp-revid
+OF_COMPATIBLE_N=1

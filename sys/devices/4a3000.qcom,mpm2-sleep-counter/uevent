@@ -1,0 +1,5 @@
+OF_NAME=qcom,mpm2-sleep-counter
+OF_FULLNAME=/soc/qcom,mpm2-sleep-counter@4a3000
+OF_COMPATIBLE_0=qcom,mpm2-sleep-counter
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,mpm2-sleep-counterT<NULL>Cqcom,mpm2-sleep-counter

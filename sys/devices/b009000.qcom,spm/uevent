@@ -1,0 +1,6 @@
+DRIVER=spm-v2
+OF_NAME=qcom,spm
+OF_FULLNAME=/soc/qcom,spm@b009000
+OF_COMPATIBLE_0=qcom,spm-v2
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,spmT<NULL>Cqcom,spm-v2

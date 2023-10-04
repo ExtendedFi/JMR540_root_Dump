@@ -1,0 +1,6 @@
+DRIVER=msm_rpmrbcpr_stats
+OF_NAME=qcom,rpm-rbcpr-stats
+OF_FULLNAME=/soc/qcom,rpm-rbcpr-stats@0x200000
+OF_COMPATIBLE_0=qcom,rpmrbcpr-stats
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,rpm-rbcpr-statsT<NULL>Cqcom,rpmrbcpr-stats

@@ -1,0 +1,2 @@
+DRIVER=DIAG_2
+MODALIAS=platform:DIAG_2

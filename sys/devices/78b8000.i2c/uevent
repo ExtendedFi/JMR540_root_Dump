@@ -1,0 +1,7 @@
+DRIVER=i2c-msm-v2
+OF_NAME=i2c
+OF_FULLNAME=/soc/i2c@78b8000
+OF_COMPATIBLE_0=qcom,i2c-msm-v2
+OF_COMPATIBLE_N=1
+OF_ALIAS_0=i2c4
+MODALIAS=of:Ni2cT<NULL>Cqcom,i2c-msm-v2

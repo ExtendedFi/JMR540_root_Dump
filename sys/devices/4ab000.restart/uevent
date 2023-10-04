@@ -1,0 +1,6 @@
+DRIVER=msm-restart
+OF_NAME=restart
+OF_FULLNAME=/soc/restart@4ab000
+OF_COMPATIBLE_0=qcom,pshold
+OF_COMPATIBLE_N=1
+MODALIAS=of:NrestartT<NULL>Cqcom,pshold

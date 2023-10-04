@@ -1,0 +1,2 @@
+DRIVER=apr_audio_svc
+MODALIAS=platform:apr_audio_svc

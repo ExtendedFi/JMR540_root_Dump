@@ -1,0 +1,5 @@
+OF_NAME=jtagfuse
+OF_FULLNAME=/soc/jtagfuse@a601c
+OF_COMPATIBLE_0=qcom,jtag-fuse-v2
+OF_COMPATIBLE_N=1
+MODALIAS=of:NjtagfuseT<NULL>Cqcom,jtag-fuse-v2

@@ -1,0 +1,2 @@
+DRIVER=msm_hsusb
+MODALIAS=platform:msm_hsusb

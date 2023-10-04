@@ -1,0 +1,4 @@
+OF_NAME=regulator
+OF_FULLNAME=/soc/regulator@1942130
+OF_COMPATIBLE_0=qcom,mem-acc-regulator
+OF_COMPATIBLE_N=1

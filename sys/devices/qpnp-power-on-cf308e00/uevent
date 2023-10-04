@@ -1,0 +1,5 @@
+DRIVER=qcom,qpnp-power-on
+OF_NAME=qcom,power_on
+OF_FULLNAME=/soc/qcom,spmi@200f000/qcom,pm8019@0/qcom,power_on@800
+OF_COMPATIBLE_0=qcom,qpnp-power-on
+OF_COMPATIBLE_N=1

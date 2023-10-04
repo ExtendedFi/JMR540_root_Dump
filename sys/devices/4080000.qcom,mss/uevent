@@ -1,0 +1,6 @@
+DRIVER=pil-q6v5-mss
+OF_NAME=qcom,mss
+OF_FULLNAME=/soc/qcom,mss@4080000
+OF_COMPATIBLE_0=qcom,pil-q6v55-mss
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,mssT<NULL>Cqcom,pil-q6v55-mss

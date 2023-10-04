@@ -1,0 +1,6 @@
+DRIVER=android_usb
+OF_NAME=android_usb
+OF_FULLNAME=/soc/android_usb@086000c8
+OF_COMPATIBLE_0=qcom,android-usb
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nandroid_usbT<NULL>Cqcom,android-usb

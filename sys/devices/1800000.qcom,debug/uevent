@@ -1,0 +1,6 @@
+DRIVER=qcom,cc-debug-mdm9607
+OF_NAME=qcom,debug
+OF_FULLNAME=/soc/qcom,debug@1874000
+OF_COMPATIBLE_0=qcom,cc-debug-mdm9607
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,debugT<NULL>Cqcom,cc-debug-mdm9607

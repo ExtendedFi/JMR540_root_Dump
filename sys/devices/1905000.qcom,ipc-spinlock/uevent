@@ -1,0 +1,5 @@
+OF_NAME=qcom,ipc-spinlock
+OF_FULLNAME=/soc/qcom,ipc-spinlock@1905000
+OF_COMPATIBLE_0=qcom,ipc-spinlock-sfpb
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,ipc-spinlockT<NULL>Cqcom,ipc-spinlock-sfpb

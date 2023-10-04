@@ -1,0 +1,6 @@
+DRIVER=msm_rpm_log
+OF_NAME=qcom,rpm-log
+OF_FULLNAME=/soc/qcom,rpm-log@29dc00
+OF_COMPATIBLE_0=qcom,rpm-log
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,rpm-logT<NULL>Cqcom,rpm-log

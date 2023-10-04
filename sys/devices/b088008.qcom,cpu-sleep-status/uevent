@@ -1,0 +1,5 @@
+OF_NAME=qcom,cpu-sleep-status
+OF_FULLNAME=/soc/qcom,cpu-sleep-status@b088008
+OF_COMPATIBLE_0=qcom,cpu-sleep-status
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,cpu-sleep-statusT<NULL>Cqcom,cpu-sleep-status

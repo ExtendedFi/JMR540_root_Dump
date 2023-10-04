@@ -1,0 +1,6 @@
+DRIVER=mpm-v2
+OF_NAME=qcom,mpm
+OF_FULLNAME=/soc/qcom,mpm@601d0
+OF_COMPATIBLE_0=qcom,mpm-v2
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,mpmT<NULL>Cqcom,mpm-v2

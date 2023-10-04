@@ -1,0 +1,4 @@
+OF_NAME=smb358-charger
+OF_FULLNAME=/soc/i2c@78b8000/smb358-charger@57
+OF_COMPATIBLE_0=qcom,smb358-charger
+OF_COMPATIBLE_N=1

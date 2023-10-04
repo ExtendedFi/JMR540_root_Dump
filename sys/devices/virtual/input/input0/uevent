@@ -1,0 +1,7 @@
+PRODUCT=0/0/0/0
+NAME="qpnp_pon"
+PHYS="qpnp_pon/input0"
+PROP=40
+EV=3
+KEY=140000 0 0 0
+MODALIAS=input:b0000v0000p0000e0000-e0,1,k72,74,ramlsfw

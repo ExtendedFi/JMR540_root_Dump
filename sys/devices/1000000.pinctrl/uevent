@@ -1,0 +1,6 @@
+DRIVER=mdm9607-pinctrl
+OF_NAME=pinctrl
+OF_FULLNAME=/soc/pinctrl@1000000
+OF_COMPATIBLE_0=qcom,mdm9607-pinctrl
+OF_COMPATIBLE_N=1
+MODALIAS=of:NpinctrlT<NULL>Cqcom,mdm9607-pinctrl

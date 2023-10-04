@@ -1,0 +1,6 @@
+DRIVER=msm_serial_hs
+OF_NAME=uart
+OF_FULLNAME=/soc/uart@78b1000
+OF_COMPATIBLE_0=qcom,msm-hsuart-v14
+OF_COMPATIBLE_N=1
+MODALIAS=of:NuartT<NULL>Cqcom,msm-hsuart-v14

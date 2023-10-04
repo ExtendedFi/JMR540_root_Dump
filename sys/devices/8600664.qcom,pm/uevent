@@ -1,0 +1,6 @@
+DRIVER=msm-pm
+OF_NAME=qcom,pm
+OF_FULLNAME=/soc/qcom,pm@8600664
+OF_COMPATIBLE_0=qcom,pm
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,pmT<NULL>Cqcom,pm

@@ -1,0 +1,5 @@
+OF_NAME=interrupt-controller
+OF_FULLNAME=/soc/interrupt-controller@b000000
+OF_COMPATIBLE_0=qcom,msm-qgic2
+OF_COMPATIBLE_N=1
+MODALIAS=of:Ninterrupt-controllerT<NULL>Cqcom,msm-qgic2

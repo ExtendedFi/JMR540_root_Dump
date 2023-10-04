@@ -1,0 +1,6 @@
+DRIVER=coresight-csr
+OF_NAME=csr
+OF_FULLNAME=/soc/csr@6001000
+OF_COMPATIBLE_0=qcom,coresight-csr
+OF_COMPATIBLE_N=1
+MODALIAS=of:NcsrT<NULL>Cqcom,coresight-csr

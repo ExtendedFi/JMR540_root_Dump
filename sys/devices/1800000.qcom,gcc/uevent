@@ -1,0 +1,6 @@
+DRIVER=qcom,gcc-mdm9607
+OF_NAME=qcom,gcc
+OF_FULLNAME=/soc/qcom,gcc@1800000
+OF_COMPATIBLE_0=qcom,gcc-mdm9607
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,gccT<NULL>Cqcom,gcc-mdm9607

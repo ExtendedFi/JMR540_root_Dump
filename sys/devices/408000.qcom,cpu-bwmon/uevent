@@ -1,0 +1,6 @@
+DRIVER=bimc-bwmon
+OF_NAME=qcom,cpu-bwmon
+OF_FULLNAME=/soc/qcom,cpu-bwmon
+OF_COMPATIBLE_0=qcom,bimc-bwmon2
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,cpu-bwmonT<NULL>Cqcom,bimc-bwmon2

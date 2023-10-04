@@ -1,0 +1,5 @@
+OF_NAME=qcom,msm-imem
+OF_FULLNAME=/soc/qcom,msm-imem@8600000
+OF_COMPATIBLE_0=qcom,msm-imem
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,msm-imemT<NULL>Cqcom,msm-imem

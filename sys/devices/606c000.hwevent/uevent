@@ -1,0 +1,6 @@
+DRIVER=coresight-hwevent
+OF_NAME=hwevent
+OF_FULLNAME=/soc/hwevent@606c000
+OF_COMPATIBLE_0=qcom,coresight-hwevent
+OF_COMPATIBLE_N=1
+MODALIAS=of:NhweventT<NULL>Cqcom,coresight-hwevent

@@ -1,0 +1,10 @@
+status = 40000480
+enable = 00000047
+*test = 0
+? ui  = 0
+? uei = 0
+? pci = 0
+? uri = 0
+? sli = 0
+*none = 0
+*hndl = 0

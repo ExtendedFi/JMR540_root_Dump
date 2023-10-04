@@ -1,0 +1,6 @@
+DRIVER=clock-a7
+OF_NAME=qcom,clock-a7
+OF_FULLNAME=/soc/qcom,clock-a7@0b010008
+OF_COMPATIBLE_0=qcom,clock-a7-mdm9607
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,clock-a7T<NULL>Cqcom,clock-a7-mdm9607

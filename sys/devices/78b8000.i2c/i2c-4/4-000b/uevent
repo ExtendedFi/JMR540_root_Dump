@@ -1,0 +1,6 @@
+DRIVER=tibq27425_cal
+OF_NAME=tibq27425_cal
+OF_FULLNAME=/soc/i2c@78b8000/tibq27425_cal@0b
+OF_COMPATIBLE_0=ti,gauge-cal
+OF_COMPATIBLE_N=1
+MODALIAS=i2c:gauge-cal

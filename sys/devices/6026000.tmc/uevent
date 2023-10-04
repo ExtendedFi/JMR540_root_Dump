@@ -1,0 +1,6 @@
+DRIVER=coresight-tmc
+OF_NAME=tmc
+OF_FULLNAME=/soc/tmc@6026000
+OF_COMPATIBLE_0=arm,coresight-tmc
+OF_COMPATIBLE_N=1
+MODALIAS=of:NtmcT<NULL>Carm,coresight-tmc

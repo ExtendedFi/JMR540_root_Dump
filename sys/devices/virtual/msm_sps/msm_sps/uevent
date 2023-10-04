@@ -1,0 +1,7 @@
+MAJOR=254
+MINOR=0
+DEVNAME=msm_sps
+OF_NAME=qcom,sps
+OF_FULLNAME=/soc/qcom,sps
+OF_COMPATIBLE_0=qcom,msm_sps_4k
+OF_COMPATIBLE_N=1

@@ -1,0 +1,5 @@
+OF_NAME=dbgui
+OF_FULLNAME=/soc/dbgui@606d000
+OF_COMPATIBLE_0=qcom,coresight-dbgui
+OF_COMPATIBLE_N=1
+MODALIAS=of:NdbguiT<NULL>Cqcom,coresight-dbgui

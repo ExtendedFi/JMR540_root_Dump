@@ -1,0 +1,6 @@
+DRIVER=msm_rpm_master_stats
+OF_NAME=qcom,rpm-master-stats
+OF_FULLNAME=/soc/qcom,rpm-master-stats@60150
+OF_COMPATIBLE_0=qcom,rpm-master-stats
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,rpm-master-statsT<NULL>Cqcom,rpm-master-stats

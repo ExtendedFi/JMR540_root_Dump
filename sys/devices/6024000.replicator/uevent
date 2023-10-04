@@ -1,0 +1,6 @@
+DRIVER=coresight-replicator
+OF_NAME=replicator
+OF_FULLNAME=/soc/replicator@6024000
+OF_COMPATIBLE_0=qcom,coresight-replicator
+OF_COMPATIBLE_N=1
+MODALIAS=of:NreplicatorT<NULL>Cqcom,coresight-replicator

@@ -1,0 +1,6 @@
+DRIVER=BAM_RMNT
+OF_NAME=qcom,bam_dmux
+OF_FULLNAME=/soc/qcom,bam_dmux@4044000
+OF_COMPATIBLE_0=qcom,bam_dmux
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,bam_dmuxT<NULL>Cqcom,bam_dmux

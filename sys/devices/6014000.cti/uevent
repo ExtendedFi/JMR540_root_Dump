@@ -1,0 +1,6 @@
+DRIVER=coresight-cti
+OF_NAME=cti
+OF_FULLNAME=/soc/cti@6014000
+OF_COMPATIBLE_0=arm,coresight-cti
+OF_COMPATIBLE_N=1
+MODALIAS=of:NctiT<NULL>Carm,coresight-cti

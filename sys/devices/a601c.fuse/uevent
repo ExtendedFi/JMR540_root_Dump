@@ -1,0 +1,6 @@
+DRIVER=coresight-fuse
+OF_NAME=fuse
+OF_FULLNAME=/soc/fuse@a601c
+OF_COMPATIBLE_0=arm,coresight-fuse-v2
+OF_COMPATIBLE_N=1
+MODALIAS=of:NfuseT<NULL>Carm,coresight-fuse-v2

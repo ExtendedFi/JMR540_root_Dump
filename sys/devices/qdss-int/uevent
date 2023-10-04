@@ -1,0 +1,3 @@
+OF_NAME=qdss-int
+OF_FULLNAME=/soc/ad-hoc-bus/qdss-int
+OF_COMPATIBLE_N=0

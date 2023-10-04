@@ -1,0 +1,5 @@
+OF_NAME=jtagmm
+OF_FULLNAME=/soc/jtagmm@6042000
+OF_COMPATIBLE_0=qcom,jtagv8-mm
+OF_COMPATIBLE_N=1
+MODALIAS=of:NjtagmmT<NULL>Cqcom,jtagv8-mm

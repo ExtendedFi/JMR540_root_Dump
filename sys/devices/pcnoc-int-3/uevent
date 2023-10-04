@@ -1,0 +1,3 @@
+OF_NAME=pcnoc-int-3
+OF_FULLNAME=/soc/ad-hoc-bus/pcnoc-int-3
+OF_COMPATIBLE_N=0

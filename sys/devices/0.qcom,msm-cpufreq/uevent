@@ -1,0 +1,6 @@
+DRIVER=msm-cpufreq
+OF_NAME=qcom,msm-cpufreq
+OF_FULLNAME=/soc/qcom,msm-cpufreq
+OF_COMPATIBLE_0=qcom,msm-cpufreq
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,msm-cpufreqT<NULL>Cqcom,msm-cpufreq

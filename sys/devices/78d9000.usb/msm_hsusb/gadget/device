@@ -1,0 +1,9 @@
+speed             = 0
+max_speed         = 3
+is_dualspeed      = 1
+is_otg            = 0
+is_a_peripheral   = 0
+b_hnp_enable      = 0
+a_hnp_support     = 0
+a_alt_hnp_support = 0
+name              = ci13xxx_msm

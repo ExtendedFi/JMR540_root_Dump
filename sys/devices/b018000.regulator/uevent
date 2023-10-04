@@ -1,0 +1,6 @@
+DRIVER=qcom,cpr-regulator
+OF_NAME=regulator
+OF_FULLNAME=/soc/regulator@b018000
+OF_COMPATIBLE_0=qcom,cpr-regulator
+OF_COMPATIBLE_N=1
+MODALIAS=of:NregulatorT<NULL>Cqcom,cpr-regulator

@@ -1,0 +1,5 @@
+OF_NAME=spi
+OF_FULLNAME=/soc/spi@78b6000
+OF_COMPATIBLE_0=qcom,spi-qup-v2
+OF_COMPATIBLE_N=1
+OF_ALIAS_0=spi1

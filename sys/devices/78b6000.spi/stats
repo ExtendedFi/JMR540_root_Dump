@@ -1,0 +1,15 @@
+Device       78b6000.spi
+rx fifo_size = 0 spi words
+tx fifo_size = 0 spi words
+use_dma ?    yes
+rx block size = 0 bytes
+tx block size = 0 bytes
+input burst size = 0 bytes
+output burst size = 0 bytes
+DMA configuration:
+tx_ch=0, rx_ch=0, tx_crci= 0, rx_crci=0
+--statistics--
+Rx isrs  = 0
+Tx isrs  = 0
+--debug--
+NA yet

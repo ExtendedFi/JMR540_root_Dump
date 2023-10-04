@@ -1,0 +1,7 @@
+DRIVER=msm_qpic_nand
+OF_NAME=nand
+OF_FULLNAME=/soc/nand@7980000
+OF_COMPATIBLE_0=qcom,msm-nand
+OF_COMPATIBLE_N=1
+OF_ALIAS_0=qpic_nand1
+MODALIAS=of:NnandT<NULL>Cqcom,msm-nand

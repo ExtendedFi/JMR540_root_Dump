@@ -1,0 +1,6 @@
+DRIVER=msm_watchdog
+OF_NAME=qcom,wdt
+OF_FULLNAME=/soc/qcom,wdt@b017000
+OF_COMPATIBLE_0=qcom,msm-watchdog
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,wdtT<NULL>Cqcom,msm-watchdog

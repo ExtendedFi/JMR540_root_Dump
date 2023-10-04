@@ -1,0 +1,5 @@
+DRIVER=qcom,qpnp-adc-tm
+OF_NAME=vadc
+OF_FULLNAME=/soc/qcom,spmi@200f000/qcom,pm8019@0/vadc@3400
+OF_COMPATIBLE_0=qcom,qpnp-adc-tm
+OF_COMPATIBLE_N=1

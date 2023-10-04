@@ -1,0 +1,6 @@
+DRIVER=coresight-stm
+OF_NAME=stm
+OF_FULLNAME=/soc/stm@6002000
+OF_COMPATIBLE_0=arm,coresight-stm
+OF_COMPATIBLE_N=1
+MODALIAS=of:NstmT<NULL>Carm,coresight-stm

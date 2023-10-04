@@ -1,0 +1,6 @@
+DRIVER=msm-tsens
+OF_NAME=tsens
+OF_FULLNAME=/soc/tsens@4a8000
+OF_COMPATIBLE_0=qcom,mdm9607-tsens
+OF_COMPATIBLE_N=1
+MODALIAS=of:NtsensT<NULL>Cqcom,mdm9607-tsens

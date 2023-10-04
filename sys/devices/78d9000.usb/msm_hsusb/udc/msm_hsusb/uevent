@@ -1,0 +1,3 @@
+DRIVER=android_usb
+USB_UDC_NAME=ci13xxx_msm
+USB_UDC_DRIVER=android_usb

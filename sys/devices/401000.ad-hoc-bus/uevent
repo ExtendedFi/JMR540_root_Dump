@@ -1,0 +1,6 @@
+DRIVER=msm_bus_device
+OF_NAME=ad-hoc-bus
+OF_FULLNAME=/soc/ad-hoc-bus
+OF_COMPATIBLE_0=qcom,msm-bus-device
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nad-hoc-busT<NULL>Cqcom,msm-bus-device

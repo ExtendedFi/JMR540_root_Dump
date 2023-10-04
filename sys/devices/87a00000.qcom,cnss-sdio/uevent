@@ -1,0 +1,6 @@
+DRIVER=cnss_sdio
+OF_NAME=qcom,cnss-sdio
+OF_FULLNAME=/soc/qcom,cnss-sdio
+OF_COMPATIBLE_0=qcom,cnss_sdio
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,cnss-sdioT<NULL>Cqcom,cnss_sdio

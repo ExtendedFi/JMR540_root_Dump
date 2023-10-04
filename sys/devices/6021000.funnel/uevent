@@ -1,0 +1,6 @@
+DRIVER=coresight-funnel
+OF_NAME=funnel
+OF_FULLNAME=/soc/funnel@6021000
+OF_COMPATIBLE_0=arm,coresight-funnel
+OF_COMPATIBLE_N=1
+MODALIAS=of:NfunnelT<NULL>Carm,coresight-funnel

@@ -1,0 +1,5 @@
+OF_NAME=timer
+OF_FULLNAME=/soc/timer@b020000
+OF_COMPATIBLE_0=arm,armv7-timer-mem
+OF_COMPATIBLE_N=1
+MODALIAS=of:NtimerT<NULL>Carm,armv7-timer-mem

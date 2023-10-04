@@ -1,0 +1,6 @@
+DRIVER=qcom-sps-dma
+OF_NAME=qcom,sps-dma
+OF_FULLNAME=/soc/qcom,sps-dma@7884000
+OF_COMPATIBLE_0=qcom,sps-dma
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,sps-dmaT<NULL>Cqcom,sps-dma

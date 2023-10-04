@@ -1,0 +1,6 @@
+DRIVER=msm_smp2p
+OF_NAME=qcom,smp2p-modem
+OF_FULLNAME=/soc/qcom,smp2p-modem
+OF_COMPATIBLE_0=qcom,smp2p
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,smp2p-modemT<NULL>Cqcom,smp2p

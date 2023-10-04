@@ -1,0 +1,6 @@
+DRIVER=coresight-tpiu
+OF_NAME=tpiu
+OF_FULLNAME=/soc/tpiu@6020000
+OF_COMPATIBLE_0=arm,coresight-tpiu
+OF_COMPATIBLE_N=1
+MODALIAS=of:NtpiuT<NULL>Carm,coresight-tpiu

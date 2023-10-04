@@ -1,0 +1,6 @@
+DRIVER=msm_serial_hsl
+OF_NAME=serial
+OF_FULLNAME=/soc/serial@78b3000
+OF_COMPATIBLE_0=qcom,msm-lsuart-v14
+OF_COMPATIBLE_N=1
+MODALIAS=of:NserialT<NULL>Cqcom,msm-lsuart-v14

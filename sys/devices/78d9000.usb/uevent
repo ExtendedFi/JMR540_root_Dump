@@ -1,0 +1,6 @@
+DRIVER=msm_otg
+OF_NAME=usb
+OF_FULLNAME=/soc/usb@78d9000
+OF_COMPATIBLE_0=qcom,hsusb-otg
+OF_COMPATIBLE_N=1
+MODALIAS=of:NusbT<NULL>Cqcom,hsusb-otg

@@ -1,0 +1,6 @@
+DRIVER=msm_smem
+OF_NAME=qcom,smem
+OF_FULLNAME=/soc/qcom,smem@87d00000
+OF_COMPATIBLE_0=qcom,smem
+OF_COMPATIBLE_N=1
+MODALIAS=of:Nqcom,smemT<NULL>Cqcom,smem

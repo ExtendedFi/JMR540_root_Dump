@@ -1,0 +1,4 @@
+OF_NAME=spm-regulator
+OF_FULLNAME=/soc/qcom,spmi@200f000/qcom,pm8019@1/spm-regulator@1400
+OF_COMPATIBLE_0=qcom,spm-regulator
+OF_COMPATIBLE_N=1

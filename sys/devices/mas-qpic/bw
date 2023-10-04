@@ -1,0 +1,3 @@
+[0]:qpic_nand:Act_IB 800000000 Act_AB 400000000 Slp_IB 800000000 Slp_AB 400000000
+Max_Act_IB 800000000 Sum_Act_AB 400000000 Act_Util_fact 100 Act_Vrail_comp 100
+Max_Slp_IB 800000000 Sum_Slp_AB 400000000 Slp_Util_fact 100 Slp_Vrail_comp 100

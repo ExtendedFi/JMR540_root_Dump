@@ -1,0 +1,7 @@
+DRIVER=sdhci_msm
+OF_NAME=sdhci
+OF_FULLNAME=/soc/sdhci@07864900
+OF_COMPATIBLE_0=qcom,sdhci-msm
+OF_COMPATIBLE_N=1
+OF_ALIAS_0=sdhc2
+MODALIAS=of:NsdhciT<NULL>Cqcom,sdhci-msm
